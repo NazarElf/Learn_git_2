@@ -1,4 +1,3 @@
 Some changes to sometext_git.txt
 More text
 And more text
-MORE TEXT
